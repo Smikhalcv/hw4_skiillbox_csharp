@@ -1,0 +1,13 @@
+D:\Skillbox\CSharp\hw4_skillbox_csharp\CSharp_HW4\Matrixs\bin\Debug\netcoreapp3.1\Matrixs.exe
+D:\Skillbox\CSharp\hw4_skillbox_csharp\CSharp_HW4\Matrixs\bin\Debug\netcoreapp3.1\Matrixs.deps.json
+D:\Skillbox\CSharp\hw4_skillbox_csharp\CSharp_HW4\Matrixs\bin\Debug\netcoreapp3.1\Matrixs.runtimeconfig.json
+D:\Skillbox\CSharp\hw4_skillbox_csharp\CSharp_HW4\Matrixs\bin\Debug\netcoreapp3.1\Matrixs.runtimeconfig.dev.json
+D:\Skillbox\CSharp\hw4_skillbox_csharp\CSharp_HW4\Matrixs\bin\Debug\netcoreapp3.1\Matrixs.dll
+D:\Skillbox\CSharp\hw4_skillbox_csharp\CSharp_HW4\Matrixs\bin\Debug\netcoreapp3.1\Matrixs.pdb
+D:\Skillbox\CSharp\hw4_skillbox_csharp\CSharp_HW4\Matrixs\obj\Debug\netcoreapp3.1\Matrixs.csprojAssemblyReference.cache
+D:\Skillbox\CSharp\hw4_skillbox_csharp\CSharp_HW4\Matrixs\obj\Debug\netcoreapp3.1\Matrixs.AssemblyInfoInputs.cache
+D:\Skillbox\CSharp\hw4_skillbox_csharp\CSharp_HW4\Matrixs\obj\Debug\netcoreapp3.1\Matrixs.AssemblyInfo.cs
+D:\Skillbox\CSharp\hw4_skillbox_csharp\CSharp_HW4\Matrixs\obj\Debug\netcoreapp3.1\Matrixs.csproj.CoreCompileInputs.cache
+D:\Skillbox\CSharp\hw4_skillbox_csharp\CSharp_HW4\Matrixs\obj\Debug\netcoreapp3.1\Matrixs.dll
+D:\Skillbox\CSharp\hw4_skillbox_csharp\CSharp_HW4\Matrixs\obj\Debug\netcoreapp3.1\Matrixs.pdb
+D:\Skillbox\CSharp\hw4_skillbox_csharp\CSharp_HW4\Matrixs\obj\Debug\netcoreapp3.1\Matrixs.genruntimeconfig.cache

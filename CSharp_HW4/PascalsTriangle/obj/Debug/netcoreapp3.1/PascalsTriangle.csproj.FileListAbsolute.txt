@@ -1,0 +1,13 @@
+D:\Skillbox\CSharp\hw4_skillbox_csharp\CSharp_HW4\PascalsTriangle\bin\Debug\netcoreapp3.1\PascalsTriangle.exe
+D:\Skillbox\CSharp\hw4_skillbox_csharp\CSharp_HW4\PascalsTriangle\bin\Debug\netcoreapp3.1\PascalsTriangle.deps.json
+D:\Skillbox\CSharp\hw4_skillbox_csharp\CSharp_HW4\PascalsTriangle\bin\Debug\netcoreapp3.1\PascalsTriangle.runtimeconfig.json
+D:\Skillbox\CSharp\hw4_skillbox_csharp\CSharp_HW4\PascalsTriangle\bin\Debug\netcoreapp3.1\PascalsTriangle.runtimeconfig.dev.json
+D:\Skillbox\CSharp\hw4_skillbox_csharp\CSharp_HW4\PascalsTriangle\bin\Debug\netcoreapp3.1\PascalsTriangle.dll
+D:\Skillbox\CSharp\hw4_skillbox_csharp\CSharp_HW4\PascalsTriangle\bin\Debug\netcoreapp3.1\PascalsTriangle.pdb
+D:\Skillbox\CSharp\hw4_skillbox_csharp\CSharp_HW4\PascalsTriangle\obj\Debug\netcoreapp3.1\PascalsTriangle.csprojAssemblyReference.cache
+D:\Skillbox\CSharp\hw4_skillbox_csharp\CSharp_HW4\PascalsTriangle\obj\Debug\netcoreapp3.1\PascalsTriangle.AssemblyInfoInputs.cache
+D:\Skillbox\CSharp\hw4_skillbox_csharp\CSharp_HW4\PascalsTriangle\obj\Debug\netcoreapp3.1\PascalsTriangle.AssemblyInfo.cs
+D:\Skillbox\CSharp\hw4_skillbox_csharp\CSharp_HW4\PascalsTriangle\obj\Debug\netcoreapp3.1\PascalsTriangle.csproj.CoreCompileInputs.cache
+D:\Skillbox\CSharp\hw4_skillbox_csharp\CSharp_HW4\PascalsTriangle\obj\Debug\netcoreapp3.1\PascalsTriangle.dll
+D:\Skillbox\CSharp\hw4_skillbox_csharp\CSharp_HW4\PascalsTriangle\obj\Debug\netcoreapp3.1\PascalsTriangle.pdb
+D:\Skillbox\CSharp\hw4_skillbox_csharp\CSharp_HW4\PascalsTriangle\obj\Debug\netcoreapp3.1\PascalsTriangle.genruntimeconfig.cache

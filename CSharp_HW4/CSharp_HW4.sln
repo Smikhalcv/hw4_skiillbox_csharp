@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp_HW4", "CSharp_HW4\CSharp_HW4.csproj", "{CD70FC9A-E2AC-4454-B8ED-77D6433B603F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{83464E34-8BA6-4ECF-A430-8BD9923514DC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task2", "Task2", "{E91C8803-086F-4FC3-98B8-63FBEDCEEAA4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task3", "Task3", "{75F93E46-B02E-41B1-9258-A8B4F4CD3660}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PascalsTriangle", "PascalsTriangle\PascalsTriangle.csproj", "{9A37A866-EF82-496F-BCED-FE82904F7D1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matrixs", "Matrixs\Matrixs.csproj", "{56F70850-825C-474E-B151-84928A6EFA32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD70FC9A-E2AC-4454-B8ED-77D6433B603F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD70FC9A-E2AC-4454-B8ED-77D6433B603F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD70FC9A-E2AC-4454-B8ED-77D6433B603F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD70FC9A-E2AC-4454-B8ED-77D6433B603F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A37A866-EF82-496F-BCED-FE82904F7D1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A37A866-EF82-496F-BCED-FE82904F7D1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A37A866-EF82-496F-BCED-FE82904F7D1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A37A866-EF82-496F-BCED-FE82904F7D1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56F70850-825C-474E-B151-84928A6EFA32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56F70850-825C-474E-B151-84928A6EFA32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56F70850-825C-474E-B151-84928A6EFA32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56F70850-825C-474E-B151-84928A6EFA32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CD70FC9A-E2AC-4454-B8ED-77D6433B603F} = {83464E34-8BA6-4ECF-A430-8BD9923514DC}
+		{9A37A866-EF82-496F-BCED-FE82904F7D1C} = {E91C8803-086F-4FC3-98B8-63FBEDCEEAA4}
+		{56F70850-825C-474E-B151-84928A6EFA32} = {75F93E46-B02E-41B1-9258-A8B4F4CD3660}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA507BC2-99CF-4085-A81E-9470F6C8B69F}
+	EndGlobalSection
+EndGlobal
