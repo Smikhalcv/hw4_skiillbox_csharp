@@ -19,35 +19,14 @@ namespace CSharp_HW4
                 report[i, 1] = random.Next(10_000, 1_000_001);
                 report[i, 2] = random.Next(10_000, 1_000_001);
                 report[i, 3] = report[i, 1] - report[i, 2];
-                //report[i, 3] = 10000;
                 profit[i] = report[i, 3];
-                //Console.WriteLine($"Номер месяца: {report[i, 0], 2}, " +
-                //    $"Доход: {report[i, 1], 8}, " +
-                //    $"Расходы: {report[i, 2], 8}, " +
-                //    $"Прибыль: {report[i, 3], 8}.");
-
             }
 
             // сортирует массив прив прибыли
             Array.Sort(profit);
 
-            Console.WriteLine("--------------------------------------------------------------------------");
-
             // выбирает 3 первых(минимальных) значения из массива прибыли
             Array.Copy(profit, minProfit, 3);
-
-            for (int i = 0; i < profit.Length; i++)
-            {
-                Console.WriteLine(profit[i]);
-            }
-
-            Console.WriteLine("--------------------------------------------------------------------------");
-
-            // проверка списка минимальной прибыли перед сортировкой
-            for (int i = 0; i < minProfit.Length; i++)
-            {
-                Console.WriteLine(minProfit[i]);
-            }
 
             // Сортирует массив из самых низких цен на случай дублирования результатов
             for (int i = 3; i < profit.Length; i++)
@@ -84,8 +63,6 @@ namespace CSharp_HW4
                 Console.ResetColor();
             }
 
-
-            Console.WriteLine(profit);
             Console.ReadKey();
         }
     }
