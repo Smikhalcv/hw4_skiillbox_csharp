@@ -48,6 +48,11 @@ namespace CSharp_HW4
             // та прибыль ниже которой входит в 3 минимальных
             int boardlineProfit = minProfit[2];
 
+            string columnMonth = "Месяц";
+            string columnRevenue = "Доходы";
+            string columnExpenses = "Расходы";
+            string columnProfit = "Прибыль";
+            Console.WriteLine($"{columnMonth, 6}:{columnRevenue, 8}:{columnExpenses, 8}:{columnProfit, 8}:");
 
             // выводит таблицу изменяя цвет на крассны если прибыль в топ 3 снизу
             for (int i = 0; i < report.GetLength(0); i++)
@@ -56,10 +61,10 @@ namespace CSharp_HW4
                 {
                     Console.ForegroundColor = ConsoleColor.Red;
                 }
-                Console.WriteLine($"Номер месяца: {report[i, 0],2}, " +
-                    $"Доход: {report[i, 1],8}, " +
-                    $"Расходы: {report[i, 2],8}, " +
-                    $"Прибыль: {report[i, 3],8}.");
+                Console.WriteLine($"{report[i, 0],6}" +
+                    $"{report[i, 1],9}" +
+                    $"{report[i, 2],9}" +
+                    $"{report[i, 3],9}");
                 Console.ResetColor();
             }
 
