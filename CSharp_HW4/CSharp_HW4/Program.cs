@@ -54,6 +54,7 @@ namespace CSharp_HW4
             string columnProfit = "Прибыль";
             Console.WriteLine($"{columnMonth, 6}:{columnRevenue, 8}:{columnExpenses, 8}:{columnProfit, 8}:");
 
+            int counterPozitiveProfit = 0;
             // выводит таблицу изменяя цвет на крассны если прибыль в топ 3 снизу
             for (int i = 0; i < report.GetLength(0); i++)
             {
@@ -66,7 +67,12 @@ namespace CSharp_HW4
                     $"{report[i, 2],9}" +
                     $"{report[i, 3],9}");
                 Console.ResetColor();
+                if (report[i, 3] > 0)
+                {
+                    counterPozitiveProfit++;
+                }
             }
+            Console.WriteLine($"Количество месяцев с положительной прибылью - {counterPozitiveProfit}");
 
             Console.ReadKey();
         }
